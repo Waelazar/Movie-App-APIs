@@ -1,5 +1,5 @@
 # Movie-App-APIs
-Movie searching app using api 
+Movie searching app
 
 
 # Installation 
