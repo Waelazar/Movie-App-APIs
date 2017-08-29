@@ -4,4 +4,4 @@ if ( !error && response.statusCode == 200){
   var parseData = JSON.parse(body);
   console.log(parseData["query"]["results"]["channel"]["astronomy"]["sunset"]); // Print the HTML for the Google homepage.
 }
-})
+});
